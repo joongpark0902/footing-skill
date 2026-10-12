@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+# 작업 폴더 중간 산출물 (예시는 03_findings·04_structure 만 남긴다)
+**/_footing/*/01_*.json
+**/_footing/*/02_*
+examples/*/_src/
+# 고객 자료는 절대 올리지 않는다 — 예시 폴더 밖의 보고서·조서
+/*.xlsx
+/*.xlsm
+/*.pptx
+/*.dsd
+/*.pdf
+~$*
